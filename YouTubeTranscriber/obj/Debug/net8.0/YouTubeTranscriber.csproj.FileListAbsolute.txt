@@ -1,0 +1,5 @@
+D:\TL_Coding\TL-Programs\YouTubeViewBot\YouTubeTranscriber\obj\Debug\net8.0\YouTubeTranscriber.csproj.AssemblyReference.cache
+D:\TL_Coding\TL-Programs\YouTubeViewBot\YouTubeTranscriber\obj\Debug\net8.0\YouTubeTranscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\TL_Coding\TL-Programs\YouTubeViewBot\YouTubeTranscriber\obj\Debug\net8.0\YouTubeTranscriber.AssemblyInfoInputs.cache
+D:\TL_Coding\TL-Programs\YouTubeViewBot\YouTubeTranscriber\obj\Debug\net8.0\YouTubeTranscriber.AssemblyInfo.cs
+D:\TL_Coding\TL-Programs\YouTubeViewBot\YouTubeTranscriber\obj\Debug\net8.0\YouTubeTranscriber.csproj.CoreCompileInputs.cache

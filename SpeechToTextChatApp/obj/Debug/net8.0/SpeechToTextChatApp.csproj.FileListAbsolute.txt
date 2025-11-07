@@ -1,0 +1,5 @@
+D:\TL_Coding\TL-Programs\YouTubeViewBot\SpeechToTextChatApp\obj\Debug\net8.0\SpeechToTextChatApp.csproj.AssemblyReference.cache
+D:\TL_Coding\TL-Programs\YouTubeViewBot\SpeechToTextChatApp\obj\Debug\net8.0\SpeechToTextChatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TL_Coding\TL-Programs\YouTubeViewBot\SpeechToTextChatApp\obj\Debug\net8.0\SpeechToTextChatApp.AssemblyInfoInputs.cache
+D:\TL_Coding\TL-Programs\YouTubeViewBot\SpeechToTextChatApp\obj\Debug\net8.0\SpeechToTextChatApp.AssemblyInfo.cs
+D:\TL_Coding\TL-Programs\YouTubeViewBot\SpeechToTextChatApp\obj\Debug\net8.0\SpeechToTextChatApp.csproj.CoreCompileInputs.cache
